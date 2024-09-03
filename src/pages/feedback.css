@@ -1,0 +1,29 @@
+body {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    margin: 0;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+body a {
+    text-align: left;
+    align-items: left;
+}
+
+h1{
+    text-align: center;
+}
+
+
+.description {
+    text-align: center;
+  }
+  
+  .description {
+    line-height: 1.5;
+    font-size: 1.5rem;
+  }
